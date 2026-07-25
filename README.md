@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0039-combination-sum) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khanasjad27/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Khanasjad27/LeetCode/tree/master/0242-valid-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
