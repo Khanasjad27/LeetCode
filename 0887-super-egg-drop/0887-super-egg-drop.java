@@ -1,60 +1,77 @@
-import java.util.Arrays;
-
 class Solution {
-    // Memoization table to store precomputed results
-    private int[][] memo;
 
-    private int solve(int egg, int floor) {
-        // Base Case 1: If 0 or 1 floor, we need 0 or 1 drops
+    // TLE
+    // private int recursiveSol(int k, int n){
+    //     // BaseCase => agar 0 ya 1 floor hi hia to wahi return kardo
+    //     if(n == 0 || n == 1){
+    //         return n;
+    //     }
+    //     // BaseCase => agar ek hi egg hai to usko we will drop from 1st to k floor and itna walue hai wo return hoga
+    //     if(k == 1){ 
+    //         return n;
+    //     }
+
+    //     // travelling from 1st floor to nth floor
+    //     int minEgg = Integer.MAX_VALUE;
+
+    //     for(int i = 1; i <= n; i++){
+    //         int temp = 1 + Math.max(recursiveSol(k - 1, i - 1), recursiveSol(k, n - i));
+    //         minEgg = Math.min(minEgg, temp);
+    //     }
+    //     return minEgg;
+    // }
+
+    // Optimization
+    private int[][] dp;
+
+    private int recursiveSol(int egg, int floor) {
+        // BaseCase1
         if (floor == 0 || floor == 1) {
             return floor;
         }
-        // Base Case 2: If only 1 egg, we must test every floor from bottom to top
+        // BaseCase 2
         if (egg == 1) {
             return floor;
         }
-
-        // Return cached result if already calculated
-        if (memo[egg][floor] != -1) {
-            return memo[egg][floor];
+        // BaseCase 3 => if number is not -1 then there must be exists some value, return that value
+        if (dp[egg][floor] != -1) {
+            return dp[egg][floor];
         }
 
-        int minDrops = Integer.MAX_VALUE;
-        int low = 1, high = floor;
+        int start = 1;
+        int end = floor;
+        int minDrop = Integer.MAX_VALUE;
 
-        // Use Binary Search instead of a linear loop to find the optimal floor
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
 
-            // Egg breaks: search lower floors with 1 less egg
-            int breakCase = solve(egg - 1, mid - 1);
-            
-            // Egg survives: search higher floors with same number of eggs
-            int surviveCase = solve(egg, floor - mid);
+            // Broken egg
+            int broke = recursiveSol(egg - 1, mid - 1);
+            // Egg not broken
+            int notBroke = recursiveSol(egg, floor - mid);
 
-            // We take the worst-case scenario between breaking and surviving
-            int worstCase = 1 + Math.max(breakCase, surviveCase);
-            
-            // We want to minimize this worst-case outcome
-            minDrops = Math.min(minDrops, worstCase);
+            //finding worst case egg drop value
+            int worstCase = 1 + Math.max(broke, notBroke);
 
-            // Move pointers based on which scenario is more expensive
-            if (breakCase > surviveCase) {
-                high = mid - 1; // Try lower floors to decrease breakCase cost
+            // Finding min egg drop 
+            minDrop = Math.min(minDrop, worstCase);
+
+            if (broke > notBroke) {
+                end = mid - 1;// if broke is more thr niche find karna hai
             } else {
-                low = mid + 1;  // Try higher floors to decrease surviveCase cost
+                start = mid + 1;
             }
         }
-
-        return memo[egg][floor] = minDrops;
+        return dp[egg][floor] = minDrop;
     }
 
     public int superEggDrop(int k, int n) {
-        // Initialize memoization table with -1
-        memo = new int[k + 1][n + 1];
-        for (int[] row : memo) {
+        dp = new int[k + 1][n + 1];
+
+        for (int[] row : dp) {
             Arrays.fill(row, -1);
         }
-        return solve(k, n);
+
+        return recursiveSol(k, n);
     }
 }
