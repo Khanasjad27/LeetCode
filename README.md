@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0887-super-egg-drop](https://github.com/Khanasjad27/LeetCode/tree/master/0887-super-egg-drop) |
 ## Graph Theory
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/Khanasjad27/LeetCode/tree/master/0887-super-egg-drop) |
 | [3899-angles-of-a-triangle](https://github.com/Khanasjad27/LeetCode/tree/master/3899-angles-of-a-triangle) |
 ## Geometry
 |  |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0887-super-egg-drop](https://github.com/Khanasjad27/LeetCode/tree/master/0887-super-egg-drop) |
 <!---LeetCode Topics End-->
