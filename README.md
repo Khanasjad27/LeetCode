@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Khanasjad27/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khanasjad27/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Khanasjad27/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Khanasjad27/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khanasjad27/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Khanasjad27/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Khanasjad27/LeetCode/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Khanasjad27/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Khanasjad27/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Khanasjad27/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Khanasjad27/LeetCode/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
