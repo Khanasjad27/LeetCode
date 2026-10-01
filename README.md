@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Khanasjad27/LeetCode/tree/master/0125-valid-palindrome) |
 ## Queue
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/Khanasjad27/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Khanasjad27/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khanasjad27/LeetCode/tree/master/0242-valid-anagram) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Khanasjad27/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
