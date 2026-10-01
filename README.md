@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khanasjad27/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Khanasjad27/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Khanasjad27/LeetCode/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khanasjad27/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khanasjad27/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khanasjad27/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khanasjad27/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Khanasjad27/LeetCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Khanasjad27/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Khanasjad27/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/Khanasjad27/LeetCode/tree/master/3899-angles-of-a-triangle) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khanasjad27/LeetCode/tree/master/0242-valid-anagram) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Khanasjad27/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Backtracking
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanasjad27/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
