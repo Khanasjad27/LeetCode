@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khanasjad27/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khanasjad27/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Khanasjad27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khanasjad27/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Khanasjad27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Khanasjad27/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Khanasjad27/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Khanasjad27/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Khanasjad27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Khanasjad27/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khanasjad27/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
