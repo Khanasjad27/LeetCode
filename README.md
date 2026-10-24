@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Khanasjad27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Khanasjad27/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Khanasjad27/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1901-find-a-peak-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Khanasjad27/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/Khanasjad27/LeetCode/tree/master/3899-angles-of-a-triangle) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khanasjad27/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Khanasjad27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0887-super-egg-drop](https://github.com/Khanasjad27/LeetCode/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Khanasjad27/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1901-find-a-peak-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Khanasjad27/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Khanasjad27/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
