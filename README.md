@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Khanasjad27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Khanasjad27/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Khanasjad27/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khanasjad27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Khanasjad27/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khanasjad27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
