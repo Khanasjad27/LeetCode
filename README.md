@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Khanasjad27/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Khanasjad27/LeetCode/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/Khanasjad27/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanasjad27/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Khanasjad27/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
