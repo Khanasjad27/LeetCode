@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Khanasjad27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Khanasjad27/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Khanasjad27/LeetCode/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Khanasjad27/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Khanasjad27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khanasjad27/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khanasjad27/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Khanasjad27/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Khanasjad27/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Khanasjad27/LeetCode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Khanasjad27/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Khanasjad27/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khanasjad27/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Khanasjad27/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Khanasjad27/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
